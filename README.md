@@ -15,8 +15,8 @@ Software Engineer @ Rh Infos
 
 ### I code in
    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/vite.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/vite.png"/> <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/mysql-logo.png" alt="mysql-logo"/> <img width="50" height="50" src="https://img.icons8.com/color/50/express-js.png" alt="express-js"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="tailwind_css"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/php.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/material-ui.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/json.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/npm.png"/> 
 <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/jquery.png" alt="jquery"/>
 <img width="64" height="64" src="https://img.icons8.com/cute-clipart/64/codeigniter.png" alt="codeigniter"/>
