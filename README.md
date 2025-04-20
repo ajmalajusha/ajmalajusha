@@ -5,8 +5,8 @@ Software Engineer @ Rh Infos
 <img  align="right" alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
                                                 
-- 🌱 I’m currently learning Full-Stack
-- 🤔 I’m looking for help with Placements in FAANG
+- 🌱 I’m currently Working as a Full-Stack developer
+- 🤔 I’m looking for a Job where i can Improve My skill's
 - 💬 Ask me about Tech
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/Gmail-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](ajmal19bca@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ajmal-a-a2b877246/)
